@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "35092147805",
+    "project_id": "gotu-2c49e",
+    "storage_bucket": "gotu-2c49e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:35092147805:android:5681b1f06493d506fd67b4",
+        "android_client_info": {
+          "package_name": "com.gotuapp.gotu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJAEOXqHJ0SuaUTT-iXEcPwY2amfKkDqs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
